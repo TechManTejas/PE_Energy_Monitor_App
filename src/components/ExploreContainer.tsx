@@ -13,7 +13,7 @@ const ExploreContainer: React.FC = () => {
 
   useEffect(() => {
     // Make an Axios call to fetch data
-    axios.get('http://127.0.0.1:8000/icon-links/')
+    axios.get('http://13.235.134.49/icon-links/')
       .then(response => {
         setButtonData(response.data);
       })

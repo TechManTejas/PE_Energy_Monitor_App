@@ -1,11 +1,11 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'pe_energy_monitor_app',
+  appId: 'com.technopolis.pe_apps',
+  appName: 'PE Apps',
   webDir: 'build',
   server: {
-    androidScheme: 'https'
+    androidScheme: 'http'
   }
 };
 
