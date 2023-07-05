@@ -1,0 +1,7 @@
+{
+  "name": "pe_energy_monitor_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
