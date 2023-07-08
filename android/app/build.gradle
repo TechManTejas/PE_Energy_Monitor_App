@@ -1,7 +1,6 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "com.technopolis.pe_apps"
     compileSdkVersion rootProject.ext.compileSdkVersion
     defaultConfig {
         applicationId "com.technopolis.pe_apps"
